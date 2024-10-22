@@ -1,0 +1,53 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Programacion/GIT/G1/IGP/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/KA/641DILFS056EAGXA96WARU.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/S7/2NX9ZP7Z2SEKB8KO5J9VC2.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/FV/0ORXDSHBYQOS2A920WHDXV.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/OV/83W7IXH4TGHRI72ZDV4BUN.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalActors__/Movies/IntroWorld/4/40/TZZA7XCC41ZZJTGLV7OGDH.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalActors__/Movies/IntroWorld/B/0Q/0RKH5X2PU2P757ZV65U1V6.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalActors__/Movies/IntroWorld/E/L3/XX2LXD1K321WWP1G51FWBM.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalActors__/Movies/IntroWorld/D/DX/C4S9AG27IQ10UX3VDAAEC5.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/Movies/IntroWorld_LevelInstance.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalActors__/Movies/IntroWorld/3/S0/7ULSF6NRNP2ZOXEB8XO8U3.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalActors__/Movies/IntroWorld/C/PP/3RQYN85095ZUSUD7K8G73P.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalActors__/Movies/IntroWorld/C/YC/FOF4A4N2JOXSFA0S0RQ59W.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalActors__/Movies/IntroWorld/A/E7/05B32O43RGKT664LFYFZOJ.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/Movies/BP_Tv.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/Movies/NewMediaTexture.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/Movies/IntroWorld.umap",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalObjects__/Movies/IntroWorld/0/XD/78EGBOA9PM9YF2XM8ZL9AY.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalObjects__/Movies/IntroWorld/4/TI/J2OWB2I8AHR0U5E4M55KUK.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalObjects__/Movies/IntroWorld/C/DR/ICST415ZWAP9QPG0PACCWL.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalActors__/Movies/IntroWorld/3/MU/S9N37YXECYD99VRZ1T940R.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalActors__/Movies/IntroWorld/0/G0/K85JJJ180LQHQVD7JW7A0D.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalObjects__/Movies/IntroWorld/9/L8/1J6RS5Z4ZV8GZTMAEU8EJA.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalActors__/Movies/IntroWorld/D/RH/Q7WGR601QWCBLTZPBPY2IS.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalObjects__/Movies/IntroWorld/8/LK/K9KKIAUODQB7USQ3RQDGRP.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/Movies/NewMediaPlayer_Video.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalObjects__/Movies/IntroWorld/7/JC/AD1G6SNGLMQYROPLYFJTLL.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalActors__/Movies/IntroWorld/C/9J/PRSOG1PRVRGEOFTI5HNI91.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalActors__/Movies/IntroWorld/B/BN/MY5IP545QVL7WAJM3FC71W.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalActors__/Movies/IntroWorld/9/92/Z4PASWR0XM3Z1W1462UALF.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalActors__/Movies/IntroWorld/D/XC/5NT90H7M0QL5J9PY47CWKX.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalActors__/Movies/IntroWorld/9/VD/VQCMFF6A7KRSMWIANSOKE7.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalActors__/Movies/IntroWorld/8/OZ/M5057JI77HELW67NCTB4UG.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/Menus/WDP_INTRO.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalActors__/Movies/IntroWorld/A/66/XKIZSXGUG3VKZ7F3KTAVM8.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalActors__/Movies/IntroWorld/D/6T/NDB2MA6V0YO8IVUHJFZZB5.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/Movies/NewMediaTexture_Mat.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/Movies/Intro_Video_Mat.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/Movies/IntroWorld_LevelInstancexd.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/Movies/NewMediaPlayer_Video_Mat.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/Movies/CambioDeNivel.uasset",
+				"D:/Programacion/GIT/G1/IGP/Content/__ExternalActors__/Movies/IntroWorld/8/YR/NLKCNZSKVV4E4GHO58R08I.uasset"
+			]
+		}
+	]
+}
