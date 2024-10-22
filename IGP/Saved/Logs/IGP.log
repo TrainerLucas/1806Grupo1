@@ -1991,3 +1991,23 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.22-00.17.10:701][925]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Movies/IntroWorld.IntroWorld:PersistentLevel.StaticMeshActor_UAID_D85ED3FF8E2D4E2102_1891673075
 [2024.10.22-00.20.12:876][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
 [2024.10.22-00.20.12:877][794]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Movies/IntroWorld' took 0.025
+[2024.10.22-00.25.17:084][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.10.22-00.25.39:053][366]LogViewport: Scene viewport resized to 1160x980, mode Windowed.
+[2024.10.22-00.25.39:103][367]LogViewport: Scene viewport resized to 1160x959, mode Windowed.
+[2024.10.22-00.25.39:119][368]LogViewport: Scene viewport resized to 1160x948, mode Windowed.
+[2024.10.22-00.25.39:154][369]LogViewport: Scene viewport resized to 1160x942, mode Windowed.
+[2024.10.22-00.25.39:939][454]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-00.25.39:939][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-00.25.39:960][454]LogViewport: Scene viewport resized to 1160x961, mode Windowed.
+[2024.10.22-00.25.39:986][455]LogViewport: Scene viewport resized to 1160x952, mode Windowed.
+[2024.10.22-00.25.40:004][456]LogViewport: Scene viewport resized to 1160x944, mode Windowed.
+[2024.10.22-00.25.40:037][457]LogViewport: Scene viewport resized to 1160x942, mode Windowed.
+[2024.10.22-00.25.40:539][508]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.10.22-00.25.40:539][508]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.10.22-00.25.40:539][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.22-00.25.40:557][508]LogViewport: Scene viewport resized to 1160x962, mode Windowed.
+[2024.10.22-00.25.40:582][509]LogViewport: Scene viewport resized to 1160x952, mode Windowed.
+[2024.10.22-00.25.40:600][510]LogViewport: Scene viewport resized to 1160x945, mode Windowed.
+[2024.10.22-00.25.40:621][511]LogViewport: Scene viewport resized to 1160x942, mode Windowed.
+[2024.10.22-00.27.17:376][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.10.22-00.27.30:007][809]LogSlate: Window 'Revision Control Login' being destroyed
