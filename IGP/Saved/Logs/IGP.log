@@ -1401,3 +1401,106 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.12.09-23.05.15:801][408]LogViewport: Scene viewport resized to 1160x959, mode Windowed.
 [2024.12.09-23.05.15:826][409]LogViewport: Scene viewport resized to 1160x949, mode Windowed.
 [2024.12.09-23.05.15:849][410]LogViewport: Scene viewport resized to 1160x942, mode Windowed.
+[2024.12.09-23.09.23:770][794]LogSlate: Window 'Revision Control Login' being destroyed
+[2024.12.09-23.09.49:971][938]SourceControl: fatal: D:/UE_5.2/Engine/Plugins/VirtualProduction/Takes/Source/TakesCore/Public/TakeRecorderSourceProperty.h: 'D:/UE_5.2/Engine/Plugins/VirtualProduction/Takes/Source/TakesCore/Public/TakeRecorderSourceProperty.h' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display: ================================================
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display: Total job queries 3 555, among them cache hits 2 (0.06%)
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display: Tracking 3 552 distinct input hashes that result in 2 523 distinct outputs (71.03%)
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display: RAM used: 59.00 MiB of 819.20 MiB budget. Usage: 7.20%
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display: Shaders Compiled: 3 552
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display: Jobs assigned 3 553, completed 3 552 (99.97%)
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display: Average time worker was idle: 3.32 s
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display: Time job spent in pending queue: average 119.42 s, longest 258.85 s
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display: Job execution time: average 6.72 s, max 23.27 s
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display: Job life time (pending + execution): average 126.17 s, max 268.46
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 293.47 s
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display: Jobs were issued in 452 batches (only local compilation was used), average 7.86 jobs/batch
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display: Average processing rate: 12.10 jobs/sec
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display: Total thread time: 2 388.081 s
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display: Total thread preprocess time: 69.243 s
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display: Percentage time preprocessing: 2.90%
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display: Effective parallelization: 8.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 6.67 sec, max 9.88 sec, min 2.72 sec)
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.33 sec, max 9.29 sec, min 1.98 sec)
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 2.42 sec, max 6.44 sec, min 1.35 sec)
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 2.33 sec, max 2.33 sec, min 2.33 sec)
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 2.24 sec, max 2.24 sec, min 2.24 sec)
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display:                                             FDeferredLightPS - 10.84% of total time (compiled  150 times, average 1.73 sec, max 2.43 sec, min 1.44 sec)
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.21% of total time (compiled   96 times, average 1.29 sec, max 2.11 sec, min 0.92 sec)
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.45% of total time (compiled  128 times, average 0.83 sec, max 1.29 sec, min 0.49 sec)
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.37% of total time (compiled   96 times, average 1.09 sec, max 1.59 sec, min 0.55 sec)
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.17% of total time (compiled  128 times, average 0.78 sec, max 1.00 sec, min 0.59 sec)
+[2024.12.09-23.09.49:987][939]LogShaderCompilers: Display: ================================================
+[2024.12.09-23.09.50:658][984]SourceControl: fatal: D:/UE_5.2/Engine/Plugins/Editor/EngineAssetDefinitions/Source/Private/AssetDefinition_NodeMappingContainer.h: 'D:/UE_5.2/Engine/Plugins/Editor/EngineAssetDefinitions/Source/Private/AssetDefinition_NodeMappingContainer.h' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.50:658][984]SourceControl: fatal: D:/UE_5.2/Engine/Source/Editor/Blutility/Public/EditorUtilityLibrary.h: 'D:/UE_5.2/Engine/Source/Editor/Blutility/Public/EditorUtilityLibrary.h' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.50:658][984]SourceControl: fatal: D:/UE_5.2/Engine/Plugins/Experimental/MeshModelingToolsetExp/Source/MeshModelingToolsEditorOnlyExp/Public/AttributeEditorTool.h: 'D:/UE_5.2/Engine/Plugins/Experimental/MeshModelingToolsetExp/Source/MeshModelingToolsEditorOnlyExp/Public/AttributeEditorTool.h' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.50:658][984]SourceControl: fatal: D:/UE_5.2/Engine/Plugins/Experimental/MeshModelingToolsetExp/Source/MeshModelingToolsExp/Public: 'D:/UE_5.2/Engine/Plugins/Experimental/MeshModelingToolsetExp/Source/MeshModelingToolsExp/Public' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.50:720][986]SourceControl: fatal: D:/UE_5.2/Engine/Source/Runtime/Engine/Classes/Animation/AssetMappingTable.h: 'D:/UE_5.2/Engine/Source/Runtime/Engine/Classes/Animation/AssetMappingTable.h' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.50:720][986]SourceControl: fatal: D:/UE_5.2/Engine/Content/EngineMaterials: 'D:/UE_5.2/Engine/Content/EngineMaterials' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.50:720][986]SourceControl: fatal: D:/UE_5.2/Engine/Content/Maps/Templates/Thumbnails/Basic.uasset: 'D:/UE_5.2/Engine/Content/Maps/Templates/Thumbnails/Basic.uasset' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.50:720][986]SourceControl: fatal: D:/UE_5.2/Engine/Content/MapTemplates/Materials: 'D:/UE_5.2/Engine/Content/MapTemplates/Materials' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.54:539][160]SourceControl: fatal: D:/UE_5.2/Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals: 'D:/UE_5.2/Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.54:539][160]SourceControl: fatal: D:/UE_5.2/Engine/Plugins/Experimental/MeshModelingToolsetExp/Source/MeshModelingToolsExp/Public/OffsetMeshTool.h: 'D:/UE_5.2/Engine/Plugins/Experimental/MeshModelingToolsetExp/Source/MeshModelingToolsExp/Public/OffsetMeshTool.h' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.54:539][160]SourceControl: fatal: D:/UE_5.2/Engine/Content/Maps/Templates/Thumbnails/OpenWorld.uasset: 'D:/UE_5.2/Engine/Content/Maps/Templates/Thumbnails/OpenWorld.uasset' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.54:539][160]SourceControl: fatal: D:/UE_5.2/Engine/Content/Maps/Templates/OpenWorld.umap: 'D:/UE_5.2/Engine/Content/Maps/Templates/OpenWorld.umap' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.54:539][160]SourceControl: fatal: D:/UE_5.2/Engine/Source/Runtime/Engine/Classes/Engine/PackageMapClient.h: 'D:/UE_5.2/Engine/Source/Runtime/Engine/Classes/Engine/PackageMapClient.h' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.54:539][160]SourceControl: fatal: D:/UE_5.2/Engine/Plugins/2D/Paper2D/Source/Paper2D/Classes: 'D:/UE_5.2/Engine/Plugins/2D/Paper2D/Source/Paper2D/Classes' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.54:539][160]SourceControl: fatal: D:/UE_5.2/Engine/Plugins/2D/Paper2D/Source/Paper2DEditor/Classes: 'D:/UE_5.2/Engine/Plugins/2D/Paper2D/Source/Paper2DEditor/Classes' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.54:539][160]SourceControl: fatal: D:/UE_5.2/Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ParallaxOcclusionMapping.uasset: 'D:/UE_5.2/Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ParallaxOcclusionMapping.uasset' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.54:539][160]SourceControl: fatal: D:/UE_5.2/Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/PlanarMapping.uasset: 'D:/UE_5.2/Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/PlanarMapping.uasset' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.54:539][160]SourceControl: fatal: D:/UE_5.2/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'D:/UE_5.2/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.54:692][173]SourceControl: fatal: D:/UE_5.2/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public: 'D:/UE_5.2/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.54:693][173]SourceControl: fatal: D:/UE_5.2/Engine/Plugins/EnhancedInput/Source/InputEditor/Public/InputEditorModule.h: 'D:/UE_5.2/Engine/Plugins/EnhancedInput/Source/InputEditor/Public/InputEditorModule.h' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.54:693][173]SourceControl: fatal: D:/UE_5.2/Engine/Content/BufferVisualization: 'D:/UE_5.2/Engine/Content/BufferVisualization' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.54:693][173]SourceControl: fatal: D:/UE_5.2/Engine/Content/Functions/Engine_MaterialFunctions01/Density/RayMarchHeightMap.uasset: 'D:/UE_5.2/Engine/Content/Functions/Engine_MaterialFunctions01/Density/RayMarchHeightMap.uasset' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.54:693][173]SourceControl: fatal: D:/UE_5.2/Engine/Content/EngineProduction/ReferenceNormalMap.uasset: 'D:/UE_5.2/Engine/Content/EngineProduction/ReferenceNormalMap.uasset' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.54:693][173]SourceControl: fatal: D:/UE_5.2/Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/RemapDistribution.uasset: 'D:/UE_5.2/Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/RemapDistribution.uasset' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.54:693][173]SourceControl: fatal: D:/UE_5.2/Engine/Plugins/FX/Niagara/Content/DynamicInputs/Clamp/Float/RemapRange.uasset: 'D:/UE_5.2/Engine/Plugins/FX/Niagara/Content/DynamicInputs/Clamp/Float/RemapRange.uasset' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.54:693][173]SourceControl: fatal: D:/UE_5.2/Engine/Plugins/FX/Niagara/Content/Functions/RemapRange.uasset: 'D:/UE_5.2/Engine/Plugins/FX/Niagara/Content/Functions/RemapRange.uasset' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.54:693][173]SourceControl: fatal: D:/UE_5.2/Engine/Plugins/FX/Niagara/Content/Functions/V2/RemapRange.uasset: 'D:/UE_5.2/Engine/Plugins/FX/Niagara/Content/Functions/V2/RemapRange.uasset' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.54:693][173]SourceControl: fatal: D:/UE_5.2/Engine/Content/Functions/Engine_MaterialFunctions03/Math: 'D:/UE_5.2/Engine/Content/Functions/Engine_MaterialFunctions03/Math' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.54:693][173]SourceControl: fatal: D:/UE_5.2/Engine/Plugins/FX/Niagara/Content/Functions/Math/RemapValueRange.uasset: 'D:/UE_5.2/Engine/Plugins/FX/Niagara/Content/Functions/Math/RemapValueRange.uasset' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.54:693][173]SourceControl: fatal: D:/UE_5.2/Engine/Source/Runtime/Engine/Classes/Engine/ShadowMapTexture2D.h: 'D:/UE_5.2/Engine/Source/Runtime/Engine/Classes/Engine/ShadowMapTexture2D.h' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.55:098][194]SourceControl: fatal: D:/UE_5.2/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sine_Remapped.uasset: 'D:/UE_5.2/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sine_Remapped.uasset' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.55:098][194]SourceControl: fatal: D:/UE_5.2/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures: 'D:/UE_5.2/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.55:098][194]SourceControl: fatal: D:/UE_5.2/Engine/Plugins/Editor/AssetManagerEditor/Source/AssetManagerEditor/Private/SSizeMap.h: 'D:/UE_5.2/Engine/Plugins/Editor/AssetManagerEditor/Source/AssetManagerEditor/Private/SSizeMap.h' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.55:098][194]SourceControl: fatal: D:/UE_5.2/Engine/Content/MapTemplates/Sky: 'D:/UE_5.2/Engine/Content/MapTemplates/Sky' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.55:098][194]SourceControl: fatal: D:/UE_5.2/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset: 'D:/UE_5.2/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.55:098][194]SourceControl: fatal: D:/UE_5.2/Engine/Source/Runtime/Engine/Public/Elements/SMInstance/SMInstanceElementId.h: 'D:/UE_5.2/Engine/Source/Runtime/Engine/Public/Elements/SMInstance/SMInstanceElementId.h' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.55:098][194]SourceControl: fatal: D:/UE_5.2/Engine/Plugins/Experimental/MeshModelingToolsetExp/Source/MeshModelingToolsExp/Public/SmoothMeshTool.h: 'D:/UE_5.2/Engine/Plugins/Experimental/MeshModelingToolsetExp/Source/MeshModelingToolsExp/Public/SmoothMeshTool.h' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.55:098][194]SourceControl: fatal: D:/UE_5.2/Engine/Source/Runtime/Engine/Classes/Components/StereoLayerComponent.h: 'D:/UE_5.2/Engine/Source/Runtime/Engine/Classes/Components/StereoLayerComponent.h' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.09.55:098][194]SourceControl: fatal: D:/UE_5.2/Engine/Content/Engine_MI_Shaders/T_Cubemap_01.uasset: 'D:/UE_5.2/Engine/Content/Engine_MI_Shaders/T_Cubemap_01.uasset' is outside repository at 'D:/Programacion/GIT/IGP'
+[2024.12.09-23.10.46:798][228]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.12.09-23.10.46:798][228]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.12.09-23.11.10:029][917]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/StarterContent/Particles/P_Fire.P_Fire
+[2024.12.09-23.11.10:166][917]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.09-23.11.10:166][917]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.09-23.11.10:187][917]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.09-23.11.10:205][917]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AnimTreeEd_PreviewFloor) ...
+[2024.12.09-23.11.12:103][ 75]LogViewport: Scene viewport resized to 550x443, mode Windowed.
+[2024.12.09-23.11.12:111][ 75]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.12.09-23.11.12:194][ 75]LogViewport: Scene viewport resized to 1283x537, mode Windowed.
+[2024.12.09-23.11.12:219][ 75]LogMeshUtilities: Finished distance field build in 1.9s - 126x126x49 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 83% occupied, 802 triangles, AnimTreeEd_PreviewFloor
+[2024.12.09-23.11.12:250][ 75]LogViewport: Scene viewport resized to 1283x275, mode Windowed.
+[2024.12.09-23.11.12:597][ 76]LogViewport: Scene viewport resized to 549x455, mode Windowed.
+[2024.12.09-23.11.12:610][ 76]LogViewport: Scene viewport resized to 1280x551, mode Windowed.
+[2024.12.09-23.11.12:631][ 76]LogViewport: Scene viewport resized to 1280x284, mode Windowed.
+[2024.12.09-23.11.12:692][ 77]LogViewport: Scene viewport resized to 550x443, mode Windowed.
+[2024.12.09-23.11.12:750][ 77]LogViewport: Scene viewport resized to 1283x537, mode Windowed.
+[2024.12.09-23.11.12:766][ 77]LogViewport: Scene viewport resized to 1283x275, mode Windowed.
+[2024.12.09-23.11.13:270][119]LogSlate: Window 'P_Fire' being destroyed
+[2024.12.09-23.11.13:293][119]LogViewport: Scene viewport resized to 550x449, mode Windowed.
+[2024.12.09-23.11.13:332][119]LogViewport: Scene viewport resized to 1283x544, mode Windowed.
+[2024.12.09-23.11.13:350][119]LogViewport: Scene viewport resized to 1283x279, mode Windowed.
+[2024.12.09-23.11.13:413][120]LogViewport: Scene viewport resized to 550x443, mode Windowed.
+[2024.12.09-23.11.13:451][120]LogViewport: Scene viewport resized to 1283x537, mode Windowed.
+[2024.12.09-23.11.13:463][120]LogViewport: Scene viewport resized to 1283x275, mode Windowed.
+[2024.12.09-23.11.18:762][657]LogCascade: Quitting Cascade. FXSystem=0x0000057040C77AD0
+[2024.12.09-23.11.18:804][657]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.12.09-23.11.18:804][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.09-23.11.18:882][657]LogViewport: Scene viewport resized to 1160x955, mode Windowed.
+[2024.12.09-23.11.18:924][658]LogViewport: Scene viewport resized to 1160x942, mode Windowed.
