@@ -10243,3 +10243,5 @@ Make sure 'VehicleUI_C' has been compiled for  Get SpeedLabel
 [2025.01.20-23.16.40:710][ 77]LogEditorViewport: Clicking Background
 [2025.01.20-23.20.48:338][458]LogDerivedDataCache: C:/Users/Home PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.124 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1988 files in 3115 folders with total size 157 MiB.
 [2025.01.20-23.25.09:904][424]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.01.20-23.36.59:896][305]SourceControl: Error: warning: could not open directory 'IGP/Build/': No such file or directory
+[2025.01.20-23.37.03:364][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
