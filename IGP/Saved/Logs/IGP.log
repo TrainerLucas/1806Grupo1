@@ -10240,3 +10240,5 @@ Make sure 'VehicleUI_C' has been compiled for  Get SpeedLabel
 [2025.01.20-23.13.50:053][453]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 1:02 min)
 [2025.01.20-23.13.50:061][453]AssetCheck: New page: Asset Save: BP_AutoJugador
 [2025.01.20-23.13.50:061][453]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Autos/BP_AutoJugador.BP_AutoJugador
+[2025.01.20-23.16.40:710][ 77]LogEditorViewport: Clicking Background
+[2025.01.20-23.20.48:338][458]LogDerivedDataCache: C:/Users/Home PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.124 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1988 files in 3115 folders with total size 157 MiB.
