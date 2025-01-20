@@ -10230,3 +10230,13 @@ Make sure 'VehicleUI_C' has been compiled for  Get SpeedLabel
 [2025.01.20-23.05.12:568][286]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2025.01.20-23.05.12:582][287]LogPlayLevel: Display: Destroying online subsystem :Context_125
 [2025.01.20-23.05.12:589][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.01.20-23.13.47:445][263]BlueprintLog: New page: Compile BP_AutoJugador
+[2025.01.20-23.13.47:552][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.01.20-23.13.49:775][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.01.20-23.13.49:896][453]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.20-23.13.49:982][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Autos/BP_AutoJugador" FILE="../../../../Programacion/GIT/IGP/IGP/Content/Autos/BP_AutoJugador.uasset" SILENT=true
+[2025.01.20-23.13.50:042][453]LogSavePackage: Moving output files for package: /Game/Autos/BP_AutoJugador
+[2025.01.20-23.13.50:042][453]LogSavePackage: Moving '../../../../Programacion/GIT/IGP/IGP/Saved/BP_AutoJugador66177E574B56A53A27F314BA7874B9FA.tmp' to '../../../../Programacion/GIT/IGP/IGP/Content/Autos/BP_AutoJugador.uasset'
+[2025.01.20-23.13.50:053][453]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 1:02 min)
+[2025.01.20-23.13.50:061][453]AssetCheck: New page: Asset Save: BP_AutoJugador
+[2025.01.20-23.13.50:061][453]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Autos/BP_AutoJugador.BP_AutoJugador
