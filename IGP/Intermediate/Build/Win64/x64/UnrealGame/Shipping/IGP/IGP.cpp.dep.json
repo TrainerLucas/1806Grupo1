@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\programacion\\git\\igp\\igp\\intermediate\\source\\igp.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\programacion\\git\\igp\\igp\\intermediate\\build\\win64\\x64\\igp\\shipping\\core\\sharedpch.core.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\programacion\\git\\igp\\igp\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\igp\\definitions.igp.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
